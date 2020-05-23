@@ -1,0 +1,19 @@
+language: node_js
+
+node_js:
+  - 10
+cache:
+  directories:
+  - node_modules
+branches:
+  only:
+  - master
+notifications:
+  email: false
+
+jobs:
+  include:
+  - stage: Run Tests and Produce Coverage
+    script: nyc npm test && nyc report --reporter=text-lcov | coveralls
+  - stage: Package Build
+    script: npm run build
