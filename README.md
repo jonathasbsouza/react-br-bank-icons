@@ -1,10 +1,6 @@
 # React-br-bank-icons
 > Iconpack com brands dos bancos inscritos na FEBRABAN.
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
-
 Atualmente temos cerca de 150 instituições bancárias registradas na FEBRABAN. O propósito dessa biblioteca é permitir a pessoas trabalhando em plataformas bancárias conseguir exibir a marca dessas instituições quando necessário, sem precisar gerar novas imagens, nem se preocupar em atualizá-los de acordo com a lista da FEBRABAN.
 
 ![](header.png)
@@ -58,13 +54,15 @@ Você pode ver a lista de bancos, seus respectivos `name` e `bankId`, e quais j�
 
 Jônathas Souza – [meu site](https://jonathas.work) – jonathas.souza@vtex.com.br
 
-Distributed under the XYZ license. See ``LICENSE`` for more information.
-
 [https://github.com/jonathasbsouza](https://github.com/jonathasbsouza/)
+
+Distributed under the GPL-3.0 license. See ``LICENSE`` for more information.
+
+All brands' copyrights goes to their respective legal owners.
 
 ## Contributing
 
-1. Fork it (<https://github.com/yourname/yourproject/fork>)
+1. Fork it (<https://github.com/jonathasbsouza/react-br-bank-icons/fork>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
