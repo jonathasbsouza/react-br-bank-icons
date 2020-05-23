@@ -15,7 +15,7 @@ npm install react-br-bank-icons --save
 
 ## Usage example
 
-Você pode ver a lista de bancos, seus respectivos `name` e `bankId`, e quais já estão disponíveis nesse repositório em [BANKLIST.md](BANKLIST.md).
+Você pode ver a lista de ícones e seus respectivos `name` e `bankId` em [ICONLIST.md](ICONLIST.md). Para ver todos os bancos da lista da FEBRABAN, vá até [BANKLIST.md](BANKLIST.md).
 
 ### Nome do banco
 
@@ -51,10 +51,6 @@ Você pode ver a lista de bancos, seus respectivos `name` e `bankId`, e quais j�
     * Work in progress
 
 ## Meta
-
-Jônathas Souza – [meu site](https://jonathas.work) – jonathas.souza@vtex.com.br
-
-[https://github.com/jonathasbsouza](https://github.com/jonathasbsouza/)
 
 Distributed under the GPL-3.0 license. See ``LICENSE`` for more information.
 

@@ -11,7 +11,7 @@
 | Banco BANDEPE S.A.                                 | 24     | bandepe                 |            |
 | BANCO ALFA                                         | 25     | alfa                    |            |
 | Banco Itaú Consignado S.A.                         | 29     | itau-consignado         |            |
-| Banco Santander (Brasil) S.A.                      | 33     | banespa                 |            |
+| Banco Santander (Brasil) S.A.                      | 33     | santander               |            |
 | Banco Bradesco BBI S/A                             | 36     | bradesco-bbi            |            |
 | BANCO DO ESTADO DO PARÁ S.A                        | 37     | para                    |            |
 | CARGILL S.A                                        | 40     | cargill                 |            |
