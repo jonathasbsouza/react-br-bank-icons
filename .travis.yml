@@ -14,6 +14,6 @@ notifications:
 jobs:
   include:
   - stage: Run Tests and Produce Coverage
-    script: nyc npm test && nyc report --reporter=text-lcov | coveralls
+    script: npm test -- --collect-coverage && npm run report-coverage
   - stage: Package Build
     script: npm run build
