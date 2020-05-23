@@ -2,6 +2,8 @@
 [![Coverage Status](https://coveralls.io/repos/github/jonathasbsouza/react-br-bank-icons/badge.svg?branch=master)](https://coveralls.io/github/jonathasbsouza/react-br-bank-icons?branch=master)
 [![Build Status](https://travis-ci.org/jonathasbsouza/react-br-bank-icons.svg?branch=master)](https://travis-ci.org/jonathasbsouza/react-br-bank-icons)
 
+[![Build Status](https://travis-ci.org/jonathasbsouza/react-br-bank-icons.svg?branch=master)](https://travis-ci.org/jonathasbsouza/react-br-bank-icons)
+
 > Iconpack com brands dos bancos inscritos na FEBRABAN.
 
 Atualmente temos cerca de 150 instituições bancárias registradas na FEBRABAN. O propósito dessa biblioteca é permitir a pessoas trabalhando em plataformas bancárias conseguir exibir a marca dessas instituições quando necessário, sem precisar gerar novas imagens, nem se preocupar em atualizá-los de acordo com a lista da FEBRABAN.
