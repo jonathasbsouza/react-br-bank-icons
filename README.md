@@ -1,9 +1,10 @@
-# React-br-bank-icons
+# react-br-bank-icons
+[![Coverage Status](https://coveralls.io/repos/github/jonathasbsouza/react-br-bank-icons/badge.svg?branch=master)](https://coveralls.io/github/jonathasbsouza/react-br-bank-icons?branch=master)
+[![Build Status](https://travis-ci.org/jonathasbsouza/react-br-bank-icons.svg?branch=master)](https://travis-ci.org/jonathasbsouza/react-br-bank-icons)
+
 > Iconpack com brands dos bancos inscritos na FEBRABAN.
 
 Atualmente temos cerca de 150 instituições bancárias registradas na FEBRABAN. O propósito dessa biblioteca é permitir a pessoas trabalhando em plataformas bancárias conseguir exibir a marca dessas instituições quando necessário, sem precisar gerar novas imagens, nem se preocupar em atualizá-los de acordo com a lista da FEBRABAN.
-
-![](header.png)
 
 ## Installation
 
@@ -15,7 +16,7 @@ npm install react-br-bank-icons --save
 
 ## Usage example
 
-Você pode ver a lista de ícones e seus respectivos `name` e `bankId` em [ICONLIST.md](ICONLIST.md). Para ver todos os bancos da lista da FEBRABAN, vá até [BANKLIST.md](BANKLIST.md).
+Você pode ver a lista de ícones e seus respectivos `name` e `bankId` em [ICONLIST.md](docs/ICONLIST.md). Para ver todos os bancos da lista da FEBRABAN, vá até [BANKLIST.md](docs/BANKLIST.md).
 
 ### Nome do banco
 
@@ -63,11 +64,3 @@ All brands' copyrights goes to their respective legal owners.
 3. Commit your changes (`git commit -am 'Add some fooBar'`)
 4. Push to the branch (`git push origin feature/fooBar`)
 5. Create a new Pull Request
-
-<!-- Markdown link & img dfn's -->
-[npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/datadog-metrics
-[npm-downloads]: https://img.shields.io/npm/dm/datadog-metrics.svg?style=flat-square
-[travis-image]: https://img.shields.io/travis/dbader/node-datadog-metrics/master.svg?style=flat-square
-[travis-url]: https://travis-ci.org/dbader/node-datadog-metrics
-[wiki]: https://github.com/yourname/yourproject/wiki
