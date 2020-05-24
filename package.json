@@ -9,6 +9,11 @@
     "build": "webpack",
     "report-coverage": "cat ./coverage/lcov.info | coveralls"
   },
+  "husky": {
+    "hooks": {
+      "pre-commit": "npm test -- --collect-coverage"
+    }
+  },
   "peerDependencies": {
     "prop-types": "^15.6.0",
     "react": "^16.0.0",
@@ -25,6 +30,7 @@
     "coveralls": "^3.1.0",
     "enzyme": "^3.11.0",
     "enzyme-adapter-react-16": "^1.15.2",
+    "husky": "^4.2.5",
     "jest": "^26.0.1",
     "jest-environment-jsdom-fourteen": "^1.0.1",
     "jest-enzyme": "^7.1.2",
