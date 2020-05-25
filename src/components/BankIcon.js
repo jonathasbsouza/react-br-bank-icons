@@ -1,6 +1,6 @@
 import React from 'react';
 import FallbackIcon from './FallbackIcon';
-import { propTypes, defaultProps } from '../types';
+import { propTypes, defaultProps } from './types/BankIcon.types';
 import { getIconByName, getIconById } from '../util/icon-set';
 
 const getIcon = (bankName, bankId) => {

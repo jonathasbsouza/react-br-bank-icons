@@ -1,0 +1,1 @@
+npm version patch -m "Bump up version to %s"
