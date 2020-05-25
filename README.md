@@ -51,9 +51,11 @@ You can define a specific color for the icon, and the library will use a mono ve
 
 ### Fallback
 
-If no valid `bankName` or `bankId` is given, the component will render a generic bank icon.
+If no valid `bankName` or `bankId` is given, the component will render a generic bank icon. If you inform a `color`, the `fallBack` icon will be rendered with the informed color.
 
 
+## Known Issues
+If you have any issues with this library, please open an issue.
 
 ## Release History
 
