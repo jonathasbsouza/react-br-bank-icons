@@ -1,4 +1,4 @@
-jest.mock('../icons');
+jest.mock('../../icons');
 import React from 'react';
 
 import * as IconSet from '../icon-set';

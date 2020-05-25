@@ -1,8 +1,6 @@
 import React from 'react';
-import { shallow, mount } from 'enzyme';
-
+import { shallow } from 'enzyme';
 import icons from '../';
-import { object } from 'prop-types';
 
 describe('Icons', () => {
   icons.map((icon) => {

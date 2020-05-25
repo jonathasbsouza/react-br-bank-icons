@@ -1,4 +1,4 @@
-import icons from './icons';
+import icons from '../icons';
 
 export const getIconByName = (bankName) => icons.find((icon) => new RegExp(bankName, 'i').test(icon.bankName));
 

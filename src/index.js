@@ -1,3 +1,3 @@
-import BankIcon from './BankIcon';
+import BankIcon from './components/BankIcon';
 
 export default BankIcon;

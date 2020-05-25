@@ -1,4 +1,4 @@
-jest.mock('../icons');
+jest.mock('../../icons');
 import React from 'react';
 import { shallow } from 'enzyme';
 import renderer from 'react-test-renderer';
@@ -7,7 +7,6 @@ import BankIcon from '../BankIcon';
 
 const defaultProps = {
   bankName: 'cajuina',
-  bankId: -1,
   size: 16,
 };
 

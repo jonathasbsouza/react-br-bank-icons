@@ -7,8 +7,6 @@ export const propTypes = {
 };
 
 export const defaultProps = {
-    bankName: 'fallback',
-    bankId: -1,
     size: 24,
 };
 
