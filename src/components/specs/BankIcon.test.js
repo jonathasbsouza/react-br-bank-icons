@@ -20,6 +20,15 @@ describe('<BankIcon />', () => {
     expect(tree).toMatchSnapshot();
   });
 
+  it('showld show console alert when both BankID and BankName are provided', () => {
+    const originalWarn = console.warn;
+    const consoleSpy = jest.fn(); 
+    console.warn = consoleSpy;
+    renderer.create(<BankIcon {...defaultProps} bankId={-11} />);
+    expect(consoleSpy).toHaveBeenCalledWith('Both BankID and BankName were provided. BankName will be used.');
+    console.warn = originalWarn;
+  });  
+
   it('should do something', () => {
     expect(true).toBeTruthy();
   });
