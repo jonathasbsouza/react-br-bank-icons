@@ -4,6 +4,7 @@ export const propTypes = {
     bankName: PropTypes.string,
     bankId: PropTypes.number,
     size: PropTypes.number,
+    color: PropTypes.string
 };
 
 export const defaultProps = {

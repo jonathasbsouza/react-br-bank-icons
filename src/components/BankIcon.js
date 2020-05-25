@@ -15,7 +15,7 @@ const BankIcon = ({ bankName, bankId, size, color }) => {
   const bankIconData = getIcon(bankName, bankId);
 
   if (!bankIconData) {
-    return <FallbackIcon />;
+    return <FallbackIcon size={size} />;
   }
 
   const svgPath = color ? bankIconData.svg.mono : bankIconData.svg.original;
