@@ -57,6 +57,9 @@ If no valid `bankName` or `bankId` is given, the component will render a generic
 ## Known Issues
 If you have any issues with this library, please open an issue.
 
+- BANRISUL logo is a mess.
+- linearGradient in Inter icon is throwing an error in console.
+
 ## Release History
 
 * 0.1.0
