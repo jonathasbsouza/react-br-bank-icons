@@ -7,7 +7,9 @@
     "test": "jest",
     "start": "webpack --watch",
     "build": "webpack",
-    "report-coverage": "cat ./coverage/lcov.info | coveralls"
+    "report-coverage": "cat ./coverage/lcov.info | coveralls",
+    "release:feat": "sh ./config/release.sh minor",
+    "release:fix": "sh ./config/release.sh patch"
   },
   "husky": {
     "hooks": {
