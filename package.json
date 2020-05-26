@@ -8,6 +8,7 @@
     "start": "webpack --watch",
     "build": "webpack",
     "report-coverage": "cat ./coverage/lcov.info | coveralls",
+    "release:major": "sh ./config/release.sh major",
     "release:feat": "sh ./config/release.sh minor",
     "release:fix": "sh ./config/release.sh patch"
   },
