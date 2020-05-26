@@ -22,7 +22,7 @@ deploy:
   api_key:
     secure: dMmYFjDvOWBX17HYISD4ZGPRBvIVXyRohYCZ6DNZhBZ9LgAD9XAWOwQRIY8fQevaHTD0tdhzHQZ2sLnskr776NG6oBXobab9b5L4wWroYnus5bPKPBEvzmjSmucTk9NG5o3iEnwtaMBz6b31F9LaMi+sqvBTytSTeLbuSKBJMudRrxTbAhOqbomsmFoSOzH334Gob3Lcgc01leL/tIabrMUoeDngGsML5y68N9YOMX0PD8XvtNkUdZZNRDgQlafEdwLyjIGP85LkK/nCQ6CLuZ2+sWHRvfxJ/hmssf31MQobSna1byYWFJ01qnHgwY80serihPbw6FrliujdhtYMzI3lSI5XD28f68ejnVXTNiwHf+V0nBoe+eXR8pmzMi1UmRUE06QTHCsauEVDOHf7Ko5cCpUBG0B5reOJtJ0AFymhwX4k5eJqpq8DI4kJ5QCTN7pJcXbaEt+Yiv7MkEPIS2rZByWUd+PaLXcfMc2/sqjQuSICG3HwUhFy17KKS6DoBFDotDOZ9+OtgBK3qy9q4z72jHA1XHgnCNX754pBqQWnvX7MXbXh9Dq2iojoMtC7lG9rIituIoGlC0YHXthsFL5/0pOg0bmhdtd91JSOOCVjc5FU/+BkRWXfmLaDC+5+y8cOClemqJ0O12mB8IwHXtM6X9r01mwvvvQECcvhQxE=
   on:
-    tags: true
+    tags: false
     repo: jonathasbsouza/react-br-bank-icons
     branch: release
   skip_cleanup: 'true'
