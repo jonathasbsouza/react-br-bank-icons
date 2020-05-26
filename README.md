@@ -72,7 +72,7 @@ You can define a specific color for the icon, and the library will use a mono ve
 -  **RGBa**: `color="rgba(244,22,234,3)"`
 
 ```js
-<BankIcon color="##FF0000" name="itau" size="24" />
+<BankIcon color="#FF0000" name="itau" size="24" />
 ```
 
 ### Fallback
