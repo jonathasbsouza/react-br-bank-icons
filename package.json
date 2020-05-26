@@ -1,6 +1,6 @@
 {
   "name": "react-br-bank-icons",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Iconpack with all brands of Brazilian banks enrolled in FEBRABAN",
   "main": "build/index.js",
   "scripts": {
