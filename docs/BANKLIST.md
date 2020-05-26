@@ -1,8 +1,8 @@
 | Banco                                              | bankId | bankName                | available? |
 |----------------------------------------------------|--------|-------------------------|------------|
-| BANCO DO BRASIL                                    | 1      | bb                      |            |
+| BANCO DO BRASIL                                    | 1      | bb                      |     ✅     |
 | Banco da Amazonia SA                               | 3      | amazonia                |            |
-| Banco do Nordeste do Brasil S/A                    | 4      | bnb                     |            |
+| Banco do Nordeste do Brasil S/A                    | 4      | bnb                     |      ✅      |
 | Banco Inbursa S.A.                                 | 12     | inbursa                 |            |
 | NATIXIS BRASIL S.A. - BANCO MÚLTIPLO               | 14     | natixis                 |            |
 | BNY MELLON S.A.                                    | 17     | bny                     |            |
@@ -11,11 +11,11 @@
 | Banco BANDEPE S.A.                                 | 24     | bandepe                 |            |
 | BANCO ALFA                                         | 25     | alfa                    |            |
 | Banco Itaú Consignado S.A.                         | 29     | itau-consignado         |            |
-| Banco Santander (Brasil) S.A.                      | 33     | santander               |            |
+| Banco Santander (Brasil) S.A.                      | 33     | santander               |       ✅     |
 | Banco Bradesco BBI S/A                             | 36     | bradesco-bbi            |            |
 | BANCO DO ESTADO DO PARÁ S.A                        | 37     | para                    |            |
 | CARGILL S.A                                        | 40     | cargill                 |            |
-| BANRISUL                                           | 41     | banrisul                |            |
+| BANRISUL                                           | 41     | banrisul                |   ✅         |
 | OPPORTUNITY S.A.                                   | 45     | opportunity             |            |
 | BANESE                                             | 47     | banese                  |            |
 | HIPERCARD BANCO MULTIPLO S.A                       | 62     | hipercard               |            |
@@ -29,7 +29,7 @@
 | J. SAFRA S.A.                                      | 74     | jsafra                  |            |
 | ABN AMRO S/A                                       | 75     | abnamro                 |            |
 | KDB DO BRASIL S.A                                  | 76     | kdb                     |            |
-| Banco Inter S/A                                    | 77     | inter                   |            |
+| Banco Inter S/A                                    | 77     | inter                   |     ✅       |
 | BES INVESTIMENTO DO BRASIL SA - BANCO DE INVESTIM. | 78     | bes                     |            |
 | ORIGINAL DO AGRONEGOCIO S.A.                       | 79     | agronegocio             |            |
 | BancoSeguro SA                                     | 81     | seguro                  |            |
@@ -49,14 +49,14 @@
 | COOPERATIVA CENTRAL DE CREDITO NOROESTE BRASILEIRO | 97     | credisis                |            |
 | CREDIALIANCA COOPERATIVA DE CREDITO RURAL          | 98     | credialianca            |            |
 | UNIPRIME CENTRAL - CENTRAL INT DE COOP DE CRED LTD | 99     | uniprime                |            |
-| Banco XP S.A.                                      | 102    | xp                      |            |
-| CAIXA ECON. FEDERAL                                | 104    | caixa                   |            |
+| Banco XP S.A.                                      | 102    | xp                      |       ✅     |
+| CAIXA ECON. FEDERAL                                | 104    | caixa                   |        ✅    |
 | BBM S.A                                            | 107    | bbm                     |            |
 | CC UNICRED BRASIL CENTRAL                          | 112    | unicred                 |            |
 | CECOOPES-CENTRAL DAS COOP DE ECON E CRED MUTUO DO  | 114    | cecoopes                |            |
 | WESTERN UNION DO BRASIL S.A.                       | 119    | western                 |            |
 | RODOBENS S.A                                       | 120    | rodobens                |            |
-| AGIBANK S/A                                        | 121    | agibank                 |            |
+| AGIBANK S/A                                        | 121    | agibank                 |    ✅        |
 | BERJ S.A                                           | 122    | berj                    |            |
 | WOORI BANK DO BRASIL S.A                           | 124    | woori                   |            |
 | BRASIL PLURAL S.A. BANCO MULTIPLO                  | 125    | plural                  |            |
@@ -66,18 +66,18 @@
 | Banco Olé Bonsucesso Consignado S.A.               | 169    | ole                     |            |
 | Itaú-BBA                                           | 184    | itau-bba                |            |
 | Banco Bradesco Cartões S.A.                        | 204    | bradesco-cartoes        |            |
-| BTG PACTUAL S.A.                                   | 208    | btg                     |            |
-| ORIGINAL S.A.                                      | 212    | original                |            |
+| BTG PACTUAL S.A.                                   | 208    | btg                     |    ✅      |
+| ORIGINAL S.A.                                      | 212    | original                |    ✅      |
 | ARBI S.A.                                          | 213    | arbi                    |            |
 | DIBENS S.A.                                        | 214    | dibens                  |            |
 | JOHN DEERE S.A.                                    | 217    | johndeere               |            |
-| Banco BS2 S/A                                      | 218    | bs2                     |            |
+| Banco BS2 S/A                                      | 218    | bs2                     |    ✅      |
 | CREDIT AGRICOLE BRASIL S.A.                        | 222    | creditagricole          |            |
 | FIBRA                                              | 224    | fibra                   |            |
 | BRASCAN S.A.                                       | 225    | brascan                 |            |
 | UNICARD BANCO MULTIPLO S.A                         | 230    | unicard                 |            |
 | CIFRA S.A.                                         | 233    | cifra                   |            |
-| BRADESCO                                           | 237    | bradesco                |            |
+| BRADESCO                                           | 237    | bradesco                |     ✅     |
 | Banco Classico S.A                                 | 241    | classico                |            |
 | MAXIMA S.A.                                        | 243    | maxima                  |            |
 | ABC-BRASIL S.A.                                    | 246    | abc                     |            |
@@ -85,23 +85,25 @@
 | Investcred Unibanco                                | 249    | investcred              |            |
 | BCV - BANCO DE CREDITO E VAREJO S.A                | 250    | bcv                     |            |
 | PARANA BANCO S.A.                                  | 254    | parana                  |            |
-| NU PAGAMENTOS S/A                                  | 260    | nubank                  |            |
+| NU PAGAMENTOS S/A                                  | 260    | nubank                  |    ✅     |
 | CACIQUE S.A.                                       | 263    | cacique                 |            |
 | FATOR S.A.                                         | 265    | fator                   |            |
 | CEDULA S.A.                                        | 266    | cedula                  |            |
 | HSBC Brasil S.A. - Banco de Investimento           | 269    | hsbc                    |            |
 | BANCO DE LA NACION ARGENTINA                       | 300    | nacion                  |            |
-| BMG S.A.                                           | 318    | bmg                     |            |
+| BMG S.A.                                           | 318    | bmg                     |    ✅      |
 | China Construction Bank                            | 320    | china-construction      |            |
-| ITAÚ UNIBANCO                                      | 341    | itau                    |            |
+| Banco Digio S/A                                    | 335    | digio                   |    ✅      |
+| Banco C6 S.A.                                      | 336    | c6                      |    ✅      |
+| ITAÚ UNIBANCO                                      | 341    | itau                    |    ✅      |
 | SOCIETE GENERALE BRASIL S.A                        | 366    | societe                 |            |
 | BANCO MIZUHO DO BRASIL S.A.                        | 370    | mizuho                  |            |
 | J.P. MORGAN S.A.                                   | 376    | jpmorgan                |            |
 | MERCANTIL DO BRASIL                                | 389    | mercantil               |            |
 | Banco Bradesco Financiamentos SA                   | 394    | bradesco-financiamentos |            |
-| HSBC                                               | 399    | hsbc                    |            |
+| HSBC                                               | 399    | hsbc                    |     ✅       |
 | CAPITAL S.A.                                       | 412    | capital                 |            |
-| SAFRA                                              | 422    | safra                   |            |
+| SAFRA                                              | 422    | safra                   |   ✅       |
 | RURAL                                              | 453    | rural                   |            |
 | BANCO TOKYO MITSUBISH UFJ BRASIL S.A               | 456    | mufg                    |            |
 | SUMITOMO MITSUI BRASILEIRO S.A.                    | 464    | sumitomo                |            |
@@ -132,6 +134,7 @@
 | INDUSVAL S.A.                                      | 653    | indusval                |            |
 | A.J. RENNER S.A.                                   | 654    | renner                  |            |
 | VOTORANTIM                                         | 655    | votorantim              |            |
+| Neon                                               | 655    | neon                    |     ✅     |
 | DAYCOVAL                                           | 707    | daycoval                |            |
 | BANIF-BANCO INTERNACIONAL DO FUNCHAL (BRASIL) S.A  | 719    | banif                   |            |
 | POTTENCIAL S.A.                                    | 735    | pottencial              |            |
@@ -139,7 +142,7 @@
 | BARCLAYS S.A.                                      | 740    | barclays                |            |
 | RIBEIRÃO PRETO                                     | 741    | ribeirao                |            |
 | SEMEAR S.A.                                        | 743    | semear                  |            |
-| CITIBANK                                           | 745    | citibank                |            |
+| CITIBANK                                           | 745    | citibank                |     ✅     |
 | MODAL S.A.                                         | 746    | modal                   |            |
 | RABOBANK INTERNATIONAL BRASIL S.A.                 | 747    | rabo                    |            |
 | SICREDI                                            | 748    | sicredi                 |            |
@@ -150,12 +153,10 @@
 | BANK OF AMERICA MERRILL LYNCH BANCO MULTIPLO S.A.  | 755    | america                 |            |
 | BANCOOB                                            | 756    | bancoob                 |            |
 | KEB DO BRASIL S.A.                                 | 757    | keb                     |            |
-| Banco C6 S.A.                                      |        | c6                      |            |
 | Banco Caterpillar S.A.                             |        | caterpillar             |            |
 | Banco CNH Industrial Capital S.A.                  |        | cnh                     |            |
 | Banco CSF S.A.                                     |        | csf                     |            |
 | Banco de Lage Landen Brasil S.A.                   |        | lage                    |            |
-| Banco Digio S.A.                                   |        | digio                   |            |
 | Banco Fidis S.A.                                   |        | fidis                   |            |
 | Banco Ford S.A.                                    |        | ford                    |            |
 | Banco GMAC S.A.                                    |        | gmac                    |            |
@@ -168,4 +169,3 @@
 | Banco Volvo Brasil S.A.                            |        | volvo                   |            |
 | Banco Yamaha Motor do Brasil S.A.                  |        | yamaha                  |            |
 | Scania Banco S.A.                                  |        | scania                  |            |
-| Neon                                |        | neon                 |            |
