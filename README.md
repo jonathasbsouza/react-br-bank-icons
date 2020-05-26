@@ -8,6 +8,17 @@
 
 We currently have about 150 banking institutions registered with FEBRABAN. The purpose of this library is to allow people working on banking platforms to be able to easily display the brand of these institutions when necessary.
 
+## Demo
+
+### **Check it out [here](https://codesandbox.io/s/react-br-bank-icons-mwl81?file=/src/App.js)**
+
+
+<br />
+<br />
+<hr />
+<br />
+<br />
+
 ## Installation
 
 With NPM
@@ -16,11 +27,10 @@ With NPM
 npm install react-br-bank-icons --save
 ```
 
+
 ## Usage example
 
 ### Props
-
-
 
 You can see the `name` and `bankId` of available icons in [ICONLIST.md](docs/ICONLIST.md). To see all banks enrolled in FEBRABAN, go to [BANKLIST.md](docs/BANKLIST.md).
 
@@ -71,8 +81,17 @@ If you have any issues with this library, please open an issue.
 
 ## Release History
 
-* 0.1.0
-    * Work in progress
+* 0.0.5
+    * Extended docs with **Codesandbox** example
+* 0.0.4
+    * Add basic icons
+    * Original and mono colors
+    * `borderRadius` prop
+    * `size` Prop
+    * Basic docs
+    * Fallback Icon
+    * Tests
+    * CI
 
 ## Contributing
 
