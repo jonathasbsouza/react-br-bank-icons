@@ -4,6 +4,8 @@
 
 > Iconpack with brands of brazilian banks enrolled in FEBRABAN.
 
+![Imagem com todos os ícones disponíveis](docs/react-br-bank-icons-example.jpg)
+
 We currently have about 150 banking institutions registered with FEBRABAN. The purpose of this library is to allow people working on banking platforms to be able to easily display the brand of these institutions when necessary.
 
 ## Installation
