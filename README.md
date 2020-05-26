@@ -18,6 +18,8 @@ npm install react-br-bank-icons --save
 
 You can see the `name` and `bankId` of available icons in [ICONLIST.md](docs/ICONLIST.md). To see all banks enrolled in FEBRABAN, go to [BANKLIST.md](docs/BANKLIST.md).
 
+You can define your icon size with the `size` prop. However, some logos don't behave well in small sizes, and we don't have any perspective in making smallsize-proof icons. Proceed with caution.
+
 ### By bank name
 
 ```js
