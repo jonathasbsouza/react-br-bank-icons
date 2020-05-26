@@ -10,6 +10,7 @@ import Caixa from './caixa'
 import Citibank from './citibank';
 import C6 from './c6';
 import Digio from './digio';
+import HSBC from './hsbc'
 import Inter from './inter'
 import Itau from './itau';
 import Neon from './neon';
@@ -19,4 +20,4 @@ import Safra from './safra';
 import Santander from './santander';
 import XP from './xp'
 
-export default [Agibank, Banrisul, BB, BMG, BNB, Bradesco, BS2, BTG, Caixa, Citibank, C6, Digio, Inter, Itau, Neon, Nubank, Original, Safra, Santander, XP ];
+export default [Agibank, Banrisul, BB, BMG, BNB, Bradesco, BS2, BTG, Caixa, Citibank, C6, Digio, HSBC, Inter, Itau, Neon, Nubank, Original, Safra, Santander, XP ];
