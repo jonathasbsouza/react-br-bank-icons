@@ -8,18 +8,24 @@
 
 We currently have about 150 banking institutions registered with FEBRABAN. The purpose of this library is to allow people working on banking platforms to be able to easily display the brand of these institutions when necessary.
 
-## Demo
+### Content
+
+1. [Demo](##1.-Demo)
+2. [Installation](##2.-Installation)
+3. [Usage](##3.-Usage)     
+    [Props](###Props)     
+    [Colors](###Colors)     
+    [Fallback](###Fallback)     
+4. [Known Issues](##4.-Known-Issues)
+5. [Release History](##5.-Release-History)
+6. [Contributing](##6.-Contributing)
+7. [Meta](##7.-Meta)
+
+## 1. Demo
 
 ### **Check it out [here](https://codesandbox.io/s/react-br-bank-icons-mwl81?file=/src/App.js)**
 
-
-<br />
-<br />
-<hr />
-<br />
-<br />
-
-## Installation
+## 2. Installation
 
 With NPM
 
@@ -28,7 +34,7 @@ npm install react-br-bank-icons --save
 ```
 
 
-## Usage example
+## 3. Usage
 
 ### Props
 
@@ -74,12 +80,12 @@ You can define a specific color for the icon, and the library will use a mono ve
 If no valid `bankName` or `bankId` is given, the component will render a generic bank icon. If you inform a `color`, the `fallBack` icon will be rendered with the informed color.
 
 
-## Known Issues
+## 4. Known Issues
 If you have any issues with this library, please open an issue.
 
 - BANRISUL logo is a mess.
 
-## Release History
+## 5. Release History
 
 * 0.0.5
     * Extended docs with **Codesandbox** example
@@ -93,7 +99,7 @@ If you have any issues with this library, please open an issue.
     * Tests
     * CI
 
-## Contributing
+## 6. Contributing
 
 1. Fork it (<https://github.com/jonathasbsouza/react-br-bank-icons/fork>)
 2. Create your feature branch (`git checkout -b feature/fooBar`)
@@ -101,7 +107,7 @@ If you have any issues with this library, please open an issue.
 4. Push to the branch (`git push origin feature/fooBar`)
 5. Create a new Pull Request
 
-## Meta
+## 7. Meta
 
 Distributed under the GPL-3.0 license. See ``LICENSE`` for more information.
 
