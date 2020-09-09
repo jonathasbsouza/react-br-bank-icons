@@ -19,5 +19,6 @@ import Original from './original';
 import Safra from './safra';
 import Santander from './santander';
 import XP from './xp'
+import Acesso from './acesso'
 
-export default [Agibank, Banrisul, BB, BMG, BNB, Bradesco, BS2, BTG, Caixa, Citibank, C6, Digio, HSBC, Inter, Itau, Neon, Nubank, Original, Safra, Santander, XP ];
+export default [Agibank, Banrisul, BB, BMG, BNB, Bradesco, BS2, BTG, Caixa, Citibank, C6, Digio, HSBC, Inter, Itau, Neon, Nubank, Original, Safra, Santander, XP, Acesso ];

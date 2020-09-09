@@ -26,3 +26,4 @@
 | SAFRA                                              | 422    | safra                   |
 | Neon                                               | 655    | neon                    |
 | Citibank                                           | 745    | citibank                |
+| Acesso                                             | 332    | acesso                  |
