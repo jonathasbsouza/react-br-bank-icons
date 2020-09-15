@@ -97,6 +97,7 @@
 | BANCO DE LA NACION ARGENTINA                       | 300    | nacion                  |            |
 | BMG S.A.                                           | 318    | bmg                     |    ✅      |
 | China Construction Bank                            | 320    | china-construction      |            |
+| Acesso Soluções de Pagamento S/A                   | 332    | acesso                  |    ✅      |
 | Banco Digio S/A                                    | 335    | digio                   |    ✅      |
 | Banco C6 S.A.                                      | 336    | c6                      |    ✅      |
 | ITAÚ UNIBANCO                                      | 341    | itau                    |    ✅      |
@@ -105,7 +106,7 @@
 | J.P. MORGAN S.A.                                   | 376    | jpmorgan                |            |
 | MERCANTIL DO BRASIL                                | 389    | mercantil               |            |
 | Banco Bradesco Financiamentos SA                   | 394    | bradesco-financiamentos |            |
-| HSBC                                               | 399    | hsbc                    |     ✅       |
+| HSBC                                               | 399    | hsbc                    |     ✅     |
 | CAPITAL S.A.                                       | 412    | capital                 |            |
 | SAFRA                                              | 422    | safra                   |   ✅       |
 | RURAL                                              | 453    | rural                   |            |
